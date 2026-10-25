@@ -1,0 +1,57 @@
+-- Create each measure separately in Power BI Desktop (Modeling > New measure).
+-- Confirm the imported table is named Opportunities.
+
+Total Opportunities =
+DISTINCTCOUNT(Opportunities[OpportunityID])
+
+Open Pipeline EUR =
+CALCULATE(
+    SUM(Opportunities[AmountEUR]),
+    NOT (Opportunities[Stage] IN {"Closed Won", "Closed Lost"})
+)
+
+Closed Won Amount EUR =
+CALCULATE(
+    SUM(Opportunities[AmountEUR]),
+    Opportunities[Stage] = "Closed Won"
+)
+
+Closed Won Count =
+CALCULATE(
+    DISTINCTCOUNT(Opportunities[OpportunityID]),
+    Opportunities[Stage] = "Closed Won"
+)
+
+Closed Lost Count =
+CALCULATE(
+    DISTINCTCOUNT(Opportunities[OpportunityID]),
+    Opportunities[Stage] = "Closed Lost"
+)
+
+Win Rate =
+DIVIDE([Closed Won Count], [Closed Won Count] + [Closed Lost Count])
+
+Average Won Deal EUR =
+CALCULATE(
+    AVERAGE(Opportunities[AmountEUR]),
+    Opportunities[Stage] = "Closed Won"
+)
+
+Median Won Sales Cycle Days =
+MEDIANX(
+    FILTER(
+        Opportunities,
+        Opportunities[Stage] = "Closed Won"
+            && NOT ISBLANK(Opportunities[CloseDate])
+    ),
+    DATEDIFF(Opportunities[CreatedDate], Opportunities[CloseDate], DAY)
+)
+
+-- Optional close-date measure:
+-- Create a Calendar table and an inactive relationship from Calendar[Date]
+-- to Opportunities[CloseDate]. Use USERELATIONSHIP in a separate measure.
+Closed Won Amount by Close Date EUR =
+CALCULATE(
+    [Closed Won Amount EUR],
+    USERELATIONSHIP('Calendar'[Date], Opportunities[CloseDate])
+)

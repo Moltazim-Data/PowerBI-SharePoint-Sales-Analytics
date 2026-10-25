@@ -1,0 +1,301 @@
+OpportunityID,CreatedDate,CloseDate,Stage,Segment,LeadSource,Region,SalesRep,AmountEUR,DealType
+OPP-0001,2025-01-06,,Prospecting,Enterprise,Partner,Nordics,Jordan Patel,51072.25,Renewal
+OPP-0002,2025-03-09,,Negotiation,Mid-Market,Paid Search,Benelux,Casey Brown,40402.12,New Business
+OPP-0003,2025-10-27,,Proposal,Mid-Market,Inbound,UK & Ireland,Taylor Kim,73514.15,Expansion
+OPP-0004,2025-01-08,2025-02-26,Closed Lost,Enterprise,Referral,UK & Ireland,Alex Morgan,18071.45,Expansion
+OPP-0005,2025-05-22,,Prospecting,Enterprise,Referral,DACH,Jordan Patel,29930.66,Expansion
+OPP-0006,2025-12-25,,Qualification,Enterprise,Referral,UK & Ireland,Sam Lee,55461.50,Expansion
+OPP-0007,2025-06-13,,Proposal,Enterprise,Outbound,UK & Ireland,Taylor Kim,48853.90,Renewal
+OPP-0008,2025-02-28,,Proposal,Enterprise,Referral,Nordics,Casey Brown,33461.78,New Business
+OPP-0009,2025-09-19,,Prospecting,Enterprise,Outbound,Nordics,Casey Brown,50098.35,New Business
+OPP-0010,2025-10-11,,Qualification,Enterprise,Referral,Nordics,Riley Chen,65206.40,Renewal
+OPP-0011,2025-04-12,,Prospecting,Enterprise,Paid Search,Benelux,Taylor Kim,38570.34,New Business
+OPP-0012,2025-06-01,,Prospecting,Mid-Market,Paid Search,Nordics,Casey Brown,45088.14,Renewal
+OPP-0013,2025-02-15,2025-04-05,Closed Won,Mid-Market,Referral,Nordics,Sam Lee,38780.07,New Business
+OPP-0014,2025-01-11,,Proposal,SMB,Outbound,Nordics,Casey Brown,19189.84,Renewal
+OPP-0015,2025-01-27,2025-03-14,Closed Lost,Mid-Market,Referral,DACH,Riley Chen,22242.48,Expansion
+OPP-0016,2025-05-06,,Negotiation,Enterprise,Partner,UK & Ireland,Sam Lee,3675.70,Expansion
+OPP-0017,2025-04-18,,Proposal,Enterprise,Partner,DACH,Alex Morgan,73620.60,Renewal
+OPP-0018,2025-09-10,,Qualification,Enterprise,Referral,Nordics,Alex Morgan,74897.14,Expansion
+OPP-0019,2025-04-20,,Qualification,SMB,Paid Search,DACH,Sam Lee,47883.91,Expansion
+OPP-0020,2025-01-07,,Proposal,Enterprise,Referral,Nordics,Alex Morgan,76749.63,Expansion
+OPP-0021,2025-03-16,2025-04-10,Closed Lost,SMB,Outbound,UK & Ireland,Casey Brown,59632.38,Expansion
+OPP-0022,2025-10-14,2025-12-31,Closed Lost,Mid-Market,Outbound,Nordics,Sam Lee,14750.04,New Business
+OPP-0023,2025-10-25,,Proposal,Mid-Market,Inbound,DACH,Alex Morgan,31231.07,New Business
+OPP-0024,2025-07-11,2025-09-06,Closed Won,SMB,Inbound,Benelux,Taylor Kim,16369.87,New Business
+OPP-0025,2025-11-23,,Prospecting,Mid-Market,Referral,Nordics,Sam Lee,11336.94,Expansion
+OPP-0026,2025-03-27,2025-07-09,Closed Won,Mid-Market,Partner,Benelux,Taylor Kim,14963.42,Renewal
+OPP-0027,2025-04-27,,Proposal,Mid-Market,Partner,Benelux,Taylor Kim,76825.96,Expansion
+OPP-0028,2025-12-20,,Proposal,Mid-Market,Outbound,Nordics,Taylor Kim,21663.30,Renewal
+OPP-0029,2025-04-14,,Prospecting,SMB,Inbound,Benelux,Riley Chen,26468.64,New Business
+OPP-0030,2025-08-13,2025-11-25,Closed Won,Mid-Market,Outbound,Benelux,Alex Morgan,4411.80,Expansion
+OPP-0031,2025-12-27,2026-02-26,Closed Won,Mid-Market,Referral,Nordics,Jordan Patel,18639.88,Expansion
+OPP-0032,2025-10-22,,Proposal,SMB,Inbound,UK & Ireland,Sam Lee,16135.54,Expansion
+OPP-0033,2025-07-10,,Proposal,Enterprise,Outbound,Benelux,Sam Lee,20009.52,Renewal
+OPP-0034,2025-02-21,,Prospecting,SMB,Referral,DACH,Jordan Patel,14153.20,Renewal
+OPP-0035,2025-03-24,2025-06-02,Closed Won,Mid-Market,Paid Search,UK & Ireland,Casey Brown,69705.84,New Business
+OPP-0036,2025-10-05,2025-12-29,Closed Lost,SMB,Outbound,Nordics,Sam Lee,61900.01,Renewal
+OPP-0037,2025-09-19,,Negotiation,SMB,Inbound,UK & Ireland,Riley Chen,67881.92,New Business
+OPP-0038,2025-03-27,2025-06-05,Closed Lost,SMB,Partner,UK & Ireland,Alex Morgan,22785.63,Renewal
+OPP-0039,2025-11-16,2026-01-24,Closed Won,SMB,Referral,Benelux,Riley Chen,31416.50,New Business
+OPP-0040,2025-03-30,,Negotiation,SMB,Partner,DACH,Alex Morgan,25706.58,New Business
+OPP-0041,2025-03-03,,Prospecting,Enterprise,Referral,UK & Ireland,Taylor Kim,33901.28,New Business
+OPP-0042,2025-08-25,,Qualification,Mid-Market,Paid Search,UK & Ireland,Taylor Kim,27947.74,Renewal
+OPP-0043,2025-02-11,,Qualification,Mid-Market,Paid Search,DACH,Jordan Patel,7840.19,New Business
+OPP-0044,2025-05-18,2025-06-17,Closed Won,SMB,Referral,Benelux,Casey Brown,83787.09,Expansion
+OPP-0045,2025-08-15,,Negotiation,SMB,Inbound,UK & Ireland,Alex Morgan,79606.37,Renewal
+OPP-0046,2025-08-31,,Qualification,SMB,Partner,Nordics,Sam Lee,13175.29,Renewal
+OPP-0047,2025-11-17,,Proposal,Mid-Market,Paid Search,Benelux,Riley Chen,6652.48,Expansion
+OPP-0048,2025-04-27,2025-05-11,Closed Lost,Mid-Market,Referral,UK & Ireland,Alex Morgan,28296.23,Renewal
+OPP-0049,2025-03-02,,Qualification,Enterprise,Paid Search,UK & Ireland,Alex Morgan,29117.07,New Business
+OPP-0050,2025-02-14,2025-06-04,Closed Won,Enterprise,Paid Search,Benelux,Alex Morgan,2788.32,Expansion
+OPP-0051,2025-04-23,2025-05-24,Closed Lost,SMB,Partner,Nordics,Jordan Patel,69240.90,New Business
+OPP-0052,2025-08-06,2025-11-15,Closed Lost,Mid-Market,Outbound,DACH,Jordan Patel,21652.80,New Business
+OPP-0053,2025-04-11,2025-06-23,Closed Won,SMB,Paid Search,DACH,Sam Lee,52777.16,Renewal
+OPP-0054,2025-08-03,,Negotiation,SMB,Outbound,Nordics,Alex Morgan,39218.47,New Business
+OPP-0055,2025-04-12,,Prospecting,Enterprise,Inbound,Benelux,Riley Chen,16750.42,New Business
+OPP-0056,2025-06-18,,Prospecting,Mid-Market,Outbound,UK & Ireland,Sam Lee,7141.30,Expansion
+OPP-0057,2025-10-31,,Negotiation,SMB,Inbound,Nordics,Alex Morgan,15499.49,Renewal
+OPP-0058,2025-05-03,,Qualification,SMB,Partner,DACH,Jordan Patel,52146.47,Expansion
+OPP-0059,2025-04-12,2025-04-23,Closed Won,SMB,Partner,DACH,Alex Morgan,83275.87,Renewal
+OPP-0060,2025-08-02,,Qualification,Enterprise,Referral,Nordics,Taylor Kim,77166.98,Renewal
+OPP-0061,2025-06-13,,Qualification,SMB,Partner,Benelux,Taylor Kim,22033.85,Expansion
+OPP-0062,2025-03-22,,Qualification,Mid-Market,Partner,Nordics,Casey Brown,52556.98,Expansion
+OPP-0063,2025-07-13,,Prospecting,Enterprise,Paid Search,Benelux,Casey Brown,28741.22,New Business
+OPP-0064,2025-12-19,,Proposal,Enterprise,Referral,UK & Ireland,Jordan Patel,29202.78,Expansion
+OPP-0065,2025-06-07,,Proposal,Mid-Market,Paid Search,UK & Ireland,Casey Brown,38152.90,Renewal
+OPP-0066,2025-05-30,,Prospecting,Enterprise,Paid Search,UK & Ireland,Jordan Patel,40831.70,Renewal
+OPP-0067,2025-10-11,,Negotiation,Enterprise,Paid Search,Nordics,Casey Brown,78500.16,New Business
+OPP-0068,2025-06-07,2025-09-04,Closed Won,Mid-Market,Outbound,Nordics,Casey Brown,37882.62,New Business
+OPP-0069,2025-10-10,2026-01-15,Closed Lost,Mid-Market,Inbound,UK & Ireland,Taylor Kim,20656.82,Renewal
+OPP-0070,2025-09-06,2025-12-17,Closed Lost,Enterprise,Outbound,Nordics,Alex Morgan,71484.00,New Business
+OPP-0071,2025-02-13,2025-04-23,Closed Lost,Enterprise,Outbound,UK & Ireland,Alex Morgan,3824.05,Expansion
+OPP-0072,2025-12-28,,Negotiation,Mid-Market,Referral,UK & Ireland,Riley Chen,24596.09,Renewal
+OPP-0073,2025-08-13,,Negotiation,SMB,Outbound,Nordics,Casey Brown,42864.04,Renewal
+OPP-0074,2025-03-12,,Qualification,Enterprise,Inbound,UK & Ireland,Sam Lee,73611.84,New Business
+OPP-0075,2025-05-03,,Prospecting,SMB,Paid Search,UK & Ireland,Taylor Kim,43952.59,New Business
+OPP-0076,2025-03-30,2025-06-26,Closed Lost,Enterprise,Paid Search,DACH,Casey Brown,22969.36,New Business
+OPP-0077,2025-11-25,,Prospecting,Enterprise,Paid Search,Benelux,Jordan Patel,56789.54,Renewal
+OPP-0078,2025-10-30,,Negotiation,SMB,Referral,Benelux,Riley Chen,25120.32,Renewal
+OPP-0079,2025-01-15,2025-02-05,Closed Lost,Enterprise,Partner,Nordics,Riley Chen,14940.42,New Business
+OPP-0080,2025-09-26,,Proposal,SMB,Outbound,Nordics,Riley Chen,75200.56,Renewal
+OPP-0081,2025-11-18,,Prospecting,Enterprise,Inbound,DACH,Alex Morgan,48783.66,Expansion
+OPP-0082,2025-08-05,,Prospecting,Mid-Market,Inbound,DACH,Taylor Kim,6388.95,New Business
+OPP-0083,2025-10-07,2025-12-02,Closed Won,SMB,Paid Search,UK & Ireland,Riley Chen,57748.74,Expansion
+OPP-0084,2025-01-22,,Negotiation,SMB,Outbound,DACH,Alex Morgan,82021.21,New Business
+OPP-0085,2025-02-07,,Prospecting,Enterprise,Inbound,UK & Ireland,Jordan Patel,18102.30,New Business
+OPP-0086,2025-05-10,,Negotiation,Enterprise,Outbound,Nordics,Casey Brown,25379.40,Renewal
+OPP-0087,2025-12-31,2026-01-17,Closed Lost,Mid-Market,Inbound,Nordics,Jordan Patel,77412.21,Expansion
+OPP-0088,2025-07-30,2025-08-25,Closed Lost,Mid-Market,Outbound,Benelux,Sam Lee,41945.41,Renewal
+OPP-0089,2025-06-08,,Qualification,SMB,Referral,UK & Ireland,Taylor Kim,65731.93,New Business
+OPP-0090,2025-07-26,,Prospecting,Enterprise,Paid Search,UK & Ireland,Jordan Patel,25423.64,New Business
+OPP-0091,2025-05-10,,Proposal,Mid-Market,Partner,Nordics,Alex Morgan,43944.63,Renewal
+OPP-0092,2025-01-01,,Prospecting,Mid-Market,Paid Search,DACH,Riley Chen,9829.46,Expansion
+OPP-0093,2025-06-08,2025-09-10,Closed Lost,SMB,Paid Search,DACH,Riley Chen,36403.54,Expansion
+OPP-0094,2025-05-16,,Qualification,SMB,Inbound,Nordics,Sam Lee,50334.87,New Business
+OPP-0095,2025-04-10,,Prospecting,Mid-Market,Referral,DACH,Alex Morgan,56173.44,New Business
+OPP-0096,2025-11-27,,Prospecting,SMB,Outbound,Nordics,Riley Chen,56817.11,New Business
+OPP-0097,2025-09-19,2025-12-18,Closed Lost,SMB,Outbound,Benelux,Sam Lee,68702.51,Expansion
+OPP-0098,2025-08-09,,Qualification,Enterprise,Outbound,DACH,Taylor Kim,64441.03,New Business
+OPP-0099,2025-09-14,,Prospecting,Enterprise,Outbound,Nordics,Alex Morgan,52620.91,Renewal
+OPP-0100,2025-01-16,,Qualification,Mid-Market,Referral,Benelux,Riley Chen,71623.75,Expansion
+OPP-0101,2025-12-25,,Proposal,Mid-Market,Partner,Nordics,Jordan Patel,51027.43,Renewal
+OPP-0102,2025-09-28,,Proposal,SMB,Outbound,Benelux,Jordan Patel,82774.77,Renewal
+OPP-0103,2025-08-10,,Qualification,Enterprise,Referral,UK & Ireland,Casey Brown,24389.91,Expansion
+OPP-0104,2025-06-17,2025-09-04,Closed Won,Mid-Market,Paid Search,Benelux,Sam Lee,37318.77,Renewal
+OPP-0105,2025-12-24,,Qualification,Mid-Market,Outbound,Nordics,Alex Morgan,26122.25,New Business
+OPP-0106,2025-01-22,2025-05-03,Closed Won,SMB,Paid Search,Nordics,Jordan Patel,22312.33,Expansion
+OPP-0107,2025-09-11,,Qualification,Enterprise,Referral,DACH,Casey Brown,66548.34,Renewal
+OPP-0108,2025-02-03,2025-05-04,Closed Lost,Enterprise,Inbound,DACH,Riley Chen,75674.98,Renewal
+OPP-0109,2025-07-22,,Qualification,Mid-Market,Referral,Benelux,Riley Chen,67106.31,Renewal
+OPP-0110,2025-04-20,,Negotiation,Mid-Market,Paid Search,UK & Ireland,Riley Chen,16997.58,Renewal
+OPP-0111,2025-01-03,,Qualification,Enterprise,Paid Search,UK & Ireland,Casey Brown,47378.77,New Business
+OPP-0112,2025-06-21,,Qualification,Mid-Market,Outbound,DACH,Riley Chen,70355.46,New Business
+OPP-0113,2025-12-13,2026-01-28,Closed Won,SMB,Outbound,UK & Ireland,Jordan Patel,26301.21,Renewal
+OPP-0114,2025-07-06,,Prospecting,Enterprise,Inbound,Benelux,Alex Morgan,34832.42,New Business
+OPP-0115,2025-03-03,2025-03-11,Closed Lost,Enterprise,Inbound,Nordics,Taylor Kim,34861.39,New Business
+OPP-0116,2025-05-02,2025-06-11,Closed Lost,SMB,Paid Search,Benelux,Casey Brown,68473.51,New Business
+OPP-0117,2025-01-12,,Negotiation,Mid-Market,Partner,Nordics,Sam Lee,73712.31,Renewal
+OPP-0118,2025-09-11,,Negotiation,Enterprise,Inbound,Nordics,Sam Lee,9447.33,Expansion
+OPP-0119,2025-05-19,,Prospecting,Mid-Market,Outbound,UK & Ireland,Sam Lee,44346.31,New Business
+OPP-0120,2025-10-01,,Negotiation,SMB,Inbound,Nordics,Casey Brown,9471.82,Renewal
+OPP-0121,2025-12-22,2026-01-08,Closed Lost,Enterprise,Outbound,UK & Ireland,Casey Brown,33733.49,New Business
+OPP-0122,2025-10-16,,Qualification,SMB,Partner,Benelux,Taylor Kim,31763.38,Renewal
+OPP-0123,2025-07-25,2025-09-23,Closed Won,SMB,Paid Search,Nordics,Taylor Kim,6791.63,Renewal
+OPP-0124,2025-10-16,,Negotiation,SMB,Outbound,DACH,Riley Chen,4732.16,New Business
+OPP-0125,2025-04-30,,Qualification,SMB,Outbound,DACH,Casey Brown,44778.53,New Business
+OPP-0126,2025-06-01,2025-06-13,Closed Won,Mid-Market,Outbound,UK & Ireland,Sam Lee,80461.22,Expansion
+OPP-0127,2025-07-27,,Prospecting,Mid-Market,Inbound,Nordics,Sam Lee,68767.83,New Business
+OPP-0128,2025-12-14,,Qualification,Mid-Market,Inbound,DACH,Sam Lee,56706.61,Expansion
+OPP-0129,2025-01-28,,Negotiation,SMB,Partner,Nordics,Alex Morgan,19271.81,New Business
+OPP-0130,2025-11-22,,Qualification,Mid-Market,Partner,Nordics,Riley Chen,19562.69,Expansion
+OPP-0131,2025-03-05,2025-05-18,Closed Won,Mid-Market,Inbound,Nordics,Riley Chen,63816.79,Renewal
+OPP-0132,2025-08-08,2025-09-16,Closed Lost,Mid-Market,Referral,DACH,Jordan Patel,53288.31,Expansion
+OPP-0133,2025-10-29,,Negotiation,SMB,Partner,Benelux,Alex Morgan,22571.85,New Business
+OPP-0134,2025-06-22,,Qualification,SMB,Inbound,DACH,Taylor Kim,79281.47,Renewal
+OPP-0135,2025-04-10,,Qualification,Mid-Market,Paid Search,Nordics,Sam Lee,50256.44,Renewal
+OPP-0136,2025-10-29,2025-11-27,Closed Won,Enterprise,Paid Search,DACH,Sam Lee,66700.13,Expansion
+OPP-0137,2025-07-15,,Negotiation,Mid-Market,Partner,DACH,Casey Brown,6988.87,Expansion
+OPP-0138,2025-07-03,,Prospecting,SMB,Inbound,Nordics,Riley Chen,51513.63,New Business
+OPP-0139,2025-12-01,,Proposal,Enterprise,Outbound,Nordics,Alex Morgan,59130.89,Renewal
+OPP-0140,2025-11-16,2026-02-10,Closed Won,Enterprise,Paid Search,Benelux,Alex Morgan,31731.97,New Business
+OPP-0141,2025-04-03,2025-06-30,Closed Lost,Mid-Market,Referral,UK & Ireland,Riley Chen,36164.88,New Business
+OPP-0142,2025-09-13,,Prospecting,SMB,Referral,Nordics,Sam Lee,78468.21,New Business
+OPP-0143,2025-05-07,,Proposal,SMB,Paid Search,Nordics,Taylor Kim,25875.80,Renewal
+OPP-0144,2025-09-01,,Qualification,SMB,Inbound,Nordics,Alex Morgan,34754.26,Expansion
+OPP-0145,2025-01-08,2025-01-20,Closed Lost,SMB,Outbound,DACH,Sam Lee,17593.44,Renewal
+OPP-0146,2025-12-25,,Proposal,Mid-Market,Partner,Benelux,Casey Brown,54421.74,Expansion
+OPP-0147,2025-06-02,,Proposal,SMB,Inbound,Nordics,Riley Chen,54875.62,New Business
+OPP-0148,2025-12-08,2026-01-26,Closed Lost,Enterprise,Paid Search,DACH,Casey Brown,55533.05,Expansion
+OPP-0149,2025-12-29,,Negotiation,Enterprise,Referral,Benelux,Alex Morgan,53051.54,Expansion
+OPP-0150,2025-09-20,2025-12-23,Closed Lost,Enterprise,Referral,Benelux,Alex Morgan,18917.39,Expansion
+OPP-0151,2025-01-03,,Negotiation,SMB,Inbound,DACH,Taylor Kim,78895.47,Expansion
+OPP-0152,2025-11-16,,Proposal,Enterprise,Referral,Nordics,Riley Chen,6618.52,Renewal
+OPP-0153,2025-05-09,2025-07-01,Closed Lost,SMB,Inbound,Benelux,Alex Morgan,4433.11,New Business
+OPP-0154,2025-02-18,,Qualification,Mid-Market,Referral,DACH,Alex Morgan,68202.04,Expansion
+OPP-0155,2025-10-24,,Qualification,Mid-Market,Paid Search,Nordics,Sam Lee,14071.34,Renewal
+OPP-0156,2025-05-16,2025-07-25,Closed Won,Enterprise,Referral,UK & Ireland,Sam Lee,41595.58,Expansion
+OPP-0157,2025-04-15,2025-04-23,Closed Won,SMB,Outbound,Benelux,Alex Morgan,65133.86,Renewal
+OPP-0158,2025-02-14,,Prospecting,Enterprise,Outbound,Nordics,Sam Lee,63130.10,Renewal
+OPP-0159,2025-07-26,2025-08-28,Closed Lost,Enterprise,Referral,DACH,Taylor Kim,33094.32,Expansion
+OPP-0160,2025-12-29,,Prospecting,Mid-Market,Outbound,UK & Ireland,Sam Lee,23083.61,Expansion
+OPP-0161,2025-10-31,2025-11-15,Closed Won,Mid-Market,Paid Search,Benelux,Sam Lee,82623.48,Expansion
+OPP-0162,2025-12-08,,Prospecting,Mid-Market,Referral,DACH,Riley Chen,54953.26,Renewal
+OPP-0163,2025-05-28,,Prospecting,Enterprise,Inbound,Benelux,Casey Brown,40947.42,Renewal
+OPP-0164,2025-05-11,,Qualification,SMB,Referral,Benelux,Alex Morgan,61370.50,Renewal
+OPP-0165,2025-02-07,,Qualification,Enterprise,Partner,Nordics,Taylor Kim,11470.80,Expansion
+OPP-0166,2025-08-31,,Prospecting,Mid-Market,Paid Search,Nordics,Jordan Patel,47886.29,Expansion
+OPP-0167,2025-07-26,2025-11-09,Closed Lost,Enterprise,Partner,Benelux,Taylor Kim,74999.87,Renewal
+OPP-0168,2025-02-12,,Qualification,Enterprise,Outbound,DACH,Casey Brown,27521.06,Expansion
+OPP-0169,2025-10-11,,Negotiation,Mid-Market,Outbound,Benelux,Sam Lee,35013.23,Expansion
+OPP-0170,2025-05-03,2025-07-04,Closed Won,Mid-Market,Partner,Nordics,Alex Morgan,59202.00,New Business
+OPP-0171,2025-04-20,,Qualification,Mid-Market,Paid Search,Benelux,Taylor Kim,73325.73,New Business
+OPP-0172,2025-07-14,,Qualification,Mid-Market,Referral,Nordics,Riley Chen,10446.30,New Business
+OPP-0173,2025-12-03,,Prospecting,Enterprise,Inbound,DACH,Jordan Patel,42555.63,Expansion
+OPP-0174,2025-10-30,,Qualification,SMB,Outbound,UK & Ireland,Riley Chen,24595.52,Renewal
+OPP-0175,2025-02-07,,Prospecting,Enterprise,Referral,DACH,Taylor Kim,80478.99,Renewal
+OPP-0176,2025-09-14,2025-11-26,Closed Won,Enterprise,Paid Search,Benelux,Alex Morgan,30489.68,New Business
+OPP-0177,2025-08-02,,Negotiation,Mid-Market,Outbound,Benelux,Riley Chen,30945.64,Expansion
+OPP-0178,2025-11-17,,Qualification,Mid-Market,Outbound,UK & Ireland,Sam Lee,16776.83,New Business
+OPP-0179,2025-03-13,,Proposal,Enterprise,Partner,UK & Ireland,Alex Morgan,33889.10,Expansion
+OPP-0180,2025-12-13,2026-01-01,Closed Lost,SMB,Referral,Benelux,Sam Lee,51366.73,Expansion
+OPP-0181,2025-11-08,,Negotiation,Mid-Market,Outbound,Benelux,Jordan Patel,76624.47,New Business
+OPP-0182,2025-05-01,,Proposal,Mid-Market,Inbound,Nordics,Sam Lee,53156.73,Expansion
+OPP-0183,2025-10-26,,Proposal,SMB,Paid Search,UK & Ireland,Sam Lee,38338.39,Expansion
+OPP-0184,2025-05-07,,Prospecting,Enterprise,Outbound,Benelux,Alex Morgan,6772.44,Expansion
+OPP-0185,2025-08-06,2025-11-05,Closed Won,SMB,Outbound,Nordics,Sam Lee,32137.63,Renewal
+OPP-0186,2025-10-09,2026-01-08,Closed Won,SMB,Referral,DACH,Jordan Patel,51481.37,New Business
+OPP-0187,2025-12-24,,Prospecting,Mid-Market,Paid Search,DACH,Riley Chen,83633.82,Renewal
+OPP-0188,2025-04-28,,Qualification,Enterprise,Inbound,UK & Ireland,Alex Morgan,21182.12,Expansion
+OPP-0189,2025-08-03,,Qualification,SMB,Paid Search,Benelux,Alex Morgan,27550.76,New Business
+OPP-0190,2025-11-03,,Proposal,SMB,Outbound,DACH,Casey Brown,63845.13,Renewal
+OPP-0191,2025-05-14,,Proposal,Enterprise,Inbound,DACH,Casey Brown,27235.76,New Business
+OPP-0192,2025-03-12,,Prospecting,SMB,Referral,UK & Ireland,Sam Lee,76331.99,Renewal
+OPP-0193,2025-12-05,,Prospecting,Enterprise,Inbound,UK & Ireland,Taylor Kim,13511.69,New Business
+OPP-0194,2025-05-06,,Qualification,Mid-Market,Referral,Nordics,Alex Morgan,59482.26,Expansion
+OPP-0195,2025-10-23,,Negotiation,Enterprise,Paid Search,DACH,Alex Morgan,37420.00,New Business
+OPP-0196,2025-07-23,,Qualification,Mid-Market,Inbound,Benelux,Alex Morgan,44069.87,New Business
+OPP-0197,2025-04-12,,Qualification,SMB,Referral,Benelux,Riley Chen,55160.92,New Business
+OPP-0198,2025-02-08,2025-05-03,Closed Lost,Enterprise,Partner,DACH,Riley Chen,17208.01,New Business
+OPP-0199,2025-01-16,2025-03-21,Closed Won,Enterprise,Partner,Nordics,Casey Brown,30487.95,Expansion
+OPP-0200,2025-07-31,2025-09-11,Closed Lost,SMB,Paid Search,UK & Ireland,Taylor Kim,7589.98,New Business
+OPP-0201,2025-04-24,,Qualification,Mid-Market,Outbound,DACH,Jordan Patel,78283.85,Renewal
+OPP-0202,2025-05-06,2025-06-07,Closed Lost,Enterprise,Outbound,DACH,Jordan Patel,68474.45,New Business
+OPP-0203,2025-09-28,2025-10-19,Closed Lost,SMB,Referral,DACH,Alex Morgan,72631.75,Renewal
+OPP-0204,2025-11-04,2025-11-25,Closed Won,SMB,Outbound,Nordics,Riley Chen,63337.40,Renewal
+OPP-0205,2025-05-21,2025-06-09,Closed Lost,SMB,Paid Search,Nordics,Taylor Kim,66578.07,Expansion
+OPP-0206,2025-03-04,,Negotiation,Enterprise,Inbound,UK & Ireland,Alex Morgan,77424.85,New Business
+OPP-0207,2025-06-20,,Qualification,Enterprise,Outbound,Nordics,Jordan Patel,17307.08,New Business
+OPP-0208,2025-01-16,2025-02-16,Closed Won,SMB,Partner,Nordics,Jordan Patel,22108.73,New Business
+OPP-0209,2025-04-26,,Negotiation,SMB,Paid Search,Nordics,Taylor Kim,38196.61,Expansion
+OPP-0210,2025-02-01,2025-05-21,Closed Won,Mid-Market,Inbound,Benelux,Riley Chen,27937.59,New Business
+OPP-0211,2025-01-28,,Negotiation,Enterprise,Paid Search,Nordics,Sam Lee,23007.08,New Business
+OPP-0212,2025-11-13,2026-02-07,Closed Lost,Enterprise,Paid Search,DACH,Sam Lee,27941.65,Renewal
+OPP-0213,2025-05-01,,Qualification,SMB,Referral,DACH,Casey Brown,50035.43,New Business
+OPP-0214,2025-02-08,,Prospecting,Mid-Market,Inbound,UK & Ireland,Alex Morgan,73524.14,New Business
+OPP-0215,2025-11-12,,Proposal,Mid-Market,Referral,DACH,Taylor Kim,20057.02,Expansion
+OPP-0216,2025-03-31,2025-07-03,Closed Won,SMB,Inbound,DACH,Riley Chen,36668.88,Renewal
+OPP-0217,2025-08-21,2025-12-08,Closed Won,Mid-Market,Paid Search,Nordics,Riley Chen,18424.79,New Business
+OPP-0218,2025-01-17,,Prospecting,Mid-Market,Inbound,UK & Ireland,Alex Morgan,64913.78,Expansion
+OPP-0219,2025-04-28,,Proposal,Enterprise,Outbound,Benelux,Jordan Patel,77783.85,New Business
+OPP-0220,2025-03-04,,Prospecting,SMB,Partner,Nordics,Jordan Patel,18117.84,New Business
+OPP-0221,2025-10-15,,Qualification,SMB,Outbound,DACH,Casey Brown,47521.48,Expansion
+OPP-0222,2025-09-02,,Negotiation,SMB,Outbound,DACH,Taylor Kim,21370.54,Renewal
+OPP-0223,2025-07-14,,Prospecting,Enterprise,Outbound,Benelux,Alex Morgan,35353.61,New Business
+OPP-0224,2025-10-16,2026-01-09,Closed Lost,Enterprise,Referral,UK & Ireland,Jordan Patel,20922.18,Renewal
+OPP-0225,2025-05-07,,Prospecting,Enterprise,Inbound,Nordics,Alex Morgan,82709.32,Renewal
+OPP-0226,2025-03-11,,Negotiation,SMB,Referral,UK & Ireland,Alex Morgan,27237.62,New Business
+OPP-0227,2025-10-01,,Proposal,SMB,Outbound,DACH,Sam Lee,66803.23,New Business
+OPP-0228,2025-05-04,,Prospecting,Mid-Market,Referral,UK & Ireland,Taylor Kim,21928.25,Renewal
+OPP-0229,2025-03-12,2025-05-27,Closed Lost,Enterprise,Paid Search,Benelux,Alex Morgan,64039.18,Expansion
+OPP-0230,2025-10-27,,Negotiation,Enterprise,Referral,Benelux,Casey Brown,78168.71,Expansion
+OPP-0231,2025-11-20,2026-02-27,Closed Lost,Mid-Market,Inbound,Nordics,Sam Lee,67084.62,New Business
+OPP-0232,2025-04-26,,Qualification,Enterprise,Inbound,Benelux,Riley Chen,16295.74,Renewal
+OPP-0233,2025-11-11,2026-02-18,Closed Lost,SMB,Paid Search,DACH,Alex Morgan,10710.97,Renewal
+OPP-0234,2025-03-24,2025-05-20,Closed Lost,Enterprise,Outbound,Benelux,Riley Chen,16652.58,Expansion
+OPP-0235,2025-07-06,2025-09-21,Closed Lost,Mid-Market,Inbound,Nordics,Jordan Patel,24121.07,Expansion
+OPP-0236,2025-05-14,,Proposal,Mid-Market,Paid Search,Nordics,Sam Lee,23673.47,New Business
+OPP-0237,2025-08-18,,Proposal,SMB,Referral,UK & Ireland,Jordan Patel,42599.24,Expansion
+OPP-0238,2025-09-29,,Proposal,SMB,Paid Search,Benelux,Casey Brown,65875.38,Expansion
+OPP-0239,2025-01-27,2025-04-13,Closed Lost,Enterprise,Paid Search,UK & Ireland,Taylor Kim,18101.95,New Business
+OPP-0240,2025-06-04,2025-09-20,Closed Lost,Mid-Market,Paid Search,Benelux,Casey Brown,69114.94,Expansion
+OPP-0241,2025-09-27,2025-12-18,Closed Won,Enterprise,Paid Search,DACH,Sam Lee,46962.19,Renewal
+OPP-0242,2025-10-28,,Qualification,SMB,Paid Search,DACH,Taylor Kim,20529.62,Renewal
+OPP-0243,2025-08-11,2025-11-20,Closed Won,SMB,Outbound,Nordics,Jordan Patel,8366.05,New Business
+OPP-0244,2025-01-18,,Prospecting,Mid-Market,Paid Search,Benelux,Sam Lee,80088.88,Renewal
+OPP-0245,2025-08-22,,Negotiation,Mid-Market,Paid Search,Benelux,Casey Brown,58547.44,Expansion
+OPP-0246,2025-10-01,,Qualification,Enterprise,Paid Search,Nordics,Sam Lee,34989.78,Renewal
+OPP-0247,2025-05-10,2025-08-06,Closed Won,Enterprise,Paid Search,Nordics,Sam Lee,39178.88,New Business
+OPP-0248,2025-05-12,2025-08-10,Closed Lost,SMB,Paid Search,Nordics,Riley Chen,57808.54,Renewal
+OPP-0249,2025-12-07,,Qualification,Mid-Market,Inbound,Benelux,Taylor Kim,7021.20,Renewal
+OPP-0250,2025-10-17,2025-11-19,Closed Won,Enterprise,Outbound,DACH,Casey Brown,33842.77,Renewal
+OPP-0251,2025-05-22,2025-08-15,Closed Lost,Enterprise,Outbound,Nordics,Alex Morgan,34251.43,Renewal
+OPP-0252,2025-10-17,,Proposal,Mid-Market,Referral,DACH,Sam Lee,76914.91,Renewal
+OPP-0253,2025-09-14,,Negotiation,Enterprise,Inbound,UK & Ireland,Riley Chen,27820.15,Expansion
+OPP-0254,2025-10-27,,Negotiation,SMB,Partner,UK & Ireland,Jordan Patel,35656.78,New Business
+OPP-0255,2025-03-25,,Proposal,SMB,Partner,Benelux,Sam Lee,44653.64,New Business
+OPP-0256,2025-04-26,2025-06-20,Closed Won,SMB,Referral,Nordics,Casey Brown,7952.60,Renewal
+OPP-0257,2025-04-21,,Proposal,Enterprise,Inbound,Nordics,Sam Lee,23058.53,New Business
+OPP-0258,2025-11-18,2026-03-02,Closed Lost,Enterprise,Paid Search,Nordics,Jordan Patel,15704.12,Renewal
+OPP-0259,2025-04-30,2025-07-27,Closed Won,Mid-Market,Paid Search,UK & Ireland,Jordan Patel,61461.16,Expansion
+OPP-0260,2025-03-19,2025-05-29,Closed Lost,Enterprise,Outbound,Benelux,Alex Morgan,70496.17,Renewal
+OPP-0261,2025-04-05,,Negotiation,Mid-Market,Partner,Benelux,Taylor Kim,32772.40,New Business
+OPP-0262,2025-04-10,,Prospecting,Enterprise,Paid Search,Nordics,Casey Brown,10758.23,Renewal
+OPP-0263,2025-05-23,2025-09-02,Closed Won,Enterprise,Paid Search,UK & Ireland,Taylor Kim,70547.62,Renewal
+OPP-0264,2025-01-29,,Proposal,Mid-Market,Outbound,UK & Ireland,Jordan Patel,83061.13,New Business
+OPP-0265,2025-08-26,2025-11-13,Closed Lost,Enterprise,Inbound,DACH,Riley Chen,48460.79,Renewal
+OPP-0266,2025-12-04,,Negotiation,Mid-Market,Outbound,UK & Ireland,Casey Brown,32152.12,New Business
+OPP-0267,2025-09-26,,Proposal,SMB,Paid Search,DACH,Riley Chen,79471.61,Renewal
+OPP-0268,2025-08-22,,Qualification,Enterprise,Partner,DACH,Alex Morgan,69561.18,New Business
+OPP-0269,2025-04-04,2025-04-24,Closed Won,Mid-Market,Outbound,UK & Ireland,Riley Chen,76045.07,New Business
+OPP-0270,2025-05-02,2025-07-17,Closed Lost,SMB,Inbound,Nordics,Alex Morgan,59566.94,New Business
+OPP-0271,2025-07-18,,Prospecting,Enterprise,Paid Search,Nordics,Casey Brown,51328.82,Renewal
+OPP-0272,2025-09-18,2025-12-06,Closed Lost,Mid-Market,Paid Search,UK & Ireland,Alex Morgan,22266.81,New Business
+OPP-0273,2025-11-10,,Negotiation,Enterprise,Partner,Benelux,Riley Chen,9484.92,Renewal
+OPP-0274,2025-11-09,,Prospecting,Mid-Market,Outbound,UK & Ireland,Jordan Patel,16334.39,Renewal
+OPP-0275,2025-08-18,2025-11-04,Closed Lost,Enterprise,Paid Search,UK & Ireland,Jordan Patel,33755.96,New Business
+OPP-0276,2025-12-24,2026-02-10,Closed Won,SMB,Outbound,DACH,Jordan Patel,11700.09,Expansion
+OPP-0277,2025-09-09,,Prospecting,Enterprise,Outbound,UK & Ireland,Alex Morgan,77038.71,Renewal
+OPP-0278,2025-06-22,,Qualification,Mid-Market,Paid Search,Benelux,Alex Morgan,83746.23,Expansion
+OPP-0279,2025-12-23,,Proposal,SMB,Inbound,Nordics,Casey Brown,56189.99,Expansion
+OPP-0280,2025-03-11,,Prospecting,Enterprise,Paid Search,Benelux,Riley Chen,79699.52,New Business
+OPP-0281,2025-02-15,,Negotiation,Mid-Market,Referral,DACH,Sam Lee,18809.32,Expansion
+OPP-0282,2025-07-10,,Proposal,Enterprise,Partner,UK & Ireland,Taylor Kim,20293.23,New Business
+OPP-0283,2025-01-25,,Proposal,Enterprise,Outbound,Nordics,Taylor Kim,54919.65,New Business
+OPP-0284,2025-01-20,,Prospecting,SMB,Inbound,Nordics,Taylor Kim,80611.56,Expansion
+OPP-0285,2025-02-13,,Negotiation,Enterprise,Partner,Benelux,Jordan Patel,13907.81,Renewal
+OPP-0286,2025-08-11,,Negotiation,Enterprise,Paid Search,Nordics,Sam Lee,22757.43,Expansion
+OPP-0287,2025-05-06,,Proposal,Enterprise,Outbound,Nordics,Casey Brown,19443.64,New Business
+OPP-0288,2025-04-01,2025-04-12,Closed Lost,Mid-Market,Outbound,UK & Ireland,Taylor Kim,18445.22,Renewal
+OPP-0289,2025-10-21,,Proposal,SMB,Outbound,Nordics,Jordan Patel,35384.92,Expansion
+OPP-0290,2025-03-13,2025-03-29,Closed Lost,Enterprise,Outbound,UK & Ireland,Alex Morgan,80468.61,New Business
+OPP-0291,2025-02-14,,Proposal,Mid-Market,Referral,DACH,Taylor Kim,80100.62,New Business
+OPP-0292,2025-05-20,2025-07-10,Closed Won,Enterprise,Outbound,UK & Ireland,Jordan Patel,40790.24,Renewal
+OPP-0293,2025-02-04,2025-04-08,Closed Won,SMB,Paid Search,Benelux,Sam Lee,80052.25,Expansion
+OPP-0294,2025-02-12,,Proposal,Enterprise,Partner,Nordics,Taylor Kim,83321.50,New Business
+OPP-0295,2025-03-27,2025-06-01,Closed Won,SMB,Paid Search,Nordics,Riley Chen,14862.41,Expansion
+OPP-0296,2025-08-14,2025-10-10,Closed Won,Mid-Market,Outbound,DACH,Sam Lee,14143.09,Renewal
+OPP-0297,2025-07-16,,Prospecting,SMB,Partner,UK & Ireland,Taylor Kim,47444.37,Expansion
+OPP-0298,2025-08-03,2025-10-16,Closed Won,Enterprise,Paid Search,Benelux,Riley Chen,58219.81,New Business
+OPP-0299,2025-01-07,,Proposal,SMB,Inbound,UK & Ireland,Casey Brown,78775.93,Expansion
+OPP-0300,2025-07-17,2025-08-16,Closed Won,Mid-Market,Partner,Benelux,Jordan Patel,62924.47,Expansion

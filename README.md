@@ -14,6 +14,7 @@ A practical portfolio project for Data Analyst and BI Analyst roles. The project
 ## Repository map
 - `data/sales_opportunities.csv` — synthetic practice dataset (300 opportunities).
 - `powerbi/measures.dax` — starter DAX measures.
+- `powerbi/dashboard_preview.html` — interactive browser preview using the embedded synthetic dataset (not a `.pbix`).
 - `powerbi/dashboard_build_guide.md` — step-by-step report construction.
 - `docs/data_dictionary.md` — field definitions.
 - `docs/metric_definitions.md` — KPI formulas and caveats.

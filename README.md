@@ -48,3 +48,6 @@ A practical portfolio project for Data Analyst and BI Analyst roles. The project
 
 ## Limitations
 This repository does not claim a completed native Power BI file, configured scheduled refresh, gateway, deployed Power App, or access to any private tenant. Complete and test those steps in your own environment before listing them as hands-on experience.
+
+## Analysis report
+See [reports/portfolio_report.md](reports/portfolio_report.md) for the report structure, business questions, interpretation caveats, and recommended next actions.
